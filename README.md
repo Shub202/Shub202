@@ -24,7 +24,7 @@ I like building practical systems end-to-end: understanding the problem, working
 
 ---
 
-## stack
+## Stack
 
 ```text
 python        java          javascript       sql          react
@@ -40,7 +40,7 @@ git           github        vscode            jupyter     kaggle
 
 ---
 
-## stats
+## Stats
 
 <div align="center">
 
@@ -58,7 +58,7 @@ git           github        vscode            jupyter     kaggle
 
 ---
 
-## contributions
+## Contributions
 
 <div align="center">
 
@@ -72,7 +72,7 @@ git           github        vscode            jupyter     kaggle
 
 ---
 
-## activity
+## Activity
 
 <div align="center">
 
@@ -82,7 +82,7 @@ git           github        vscode            jupyter     kaggle
 
 ---
 
-## profiles
+## Profiles
 
 <div align="center">
 
@@ -98,7 +98,7 @@ git           github        vscode            jupyter     kaggle
 
 ---
 
-## contact
+## Contact
 
 <div align="center">
 
