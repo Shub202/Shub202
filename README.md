@@ -82,7 +82,7 @@ git           github        vscode            jupyter     kaggle
 
 ---
 
-## Profiles
+## Coding Profiles
 
 <div align="center">
 
