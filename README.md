@@ -14,7 +14,7 @@
 
 ---
 
-## about
+## About
 
 Computer Science undergraduate specializing in **Artificial Intelligence & Machine Learning**, with hands-on internship experience in **Python development, AI/ML, Java, and web development**.
 
