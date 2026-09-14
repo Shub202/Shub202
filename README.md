@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./art/ascii-hero.svg" alt="Shubham Kumar terminal-style profile hero" width="100%">
+<img src="./art/shubh2-ascii.svg" alt="Shubham Kumar terminal-style profile hero" width="100%">
 
 <p>
   <a href="https://github.com/Shub202">github</a>
