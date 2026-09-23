@@ -35,7 +35,7 @@ git           github        vscode            jupyter     kaggle
 ```
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,react,html,css,git,github,vscode,jupyter&perline=10" alt="Tech stack">
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,react,html,css,git,github,vscode,jupyter,aws&perline=10" alt="Tech stack">
 </p>
 
 ---
