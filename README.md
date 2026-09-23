@@ -3,11 +3,11 @@
 <img src="./art/shubh2-ascii.svg" alt="Shubham Kumar terminal-style profile hero" width="100%">
 
 <p>
-  <a href="https://github.com/Shub202">github</a>
+  <a href="https://github.com/Shub202">Github</a>
   ·
-  <a href="https://www.linkedin.com/in/shubham-kumar-b21037295">linkedin</a>
+  <a href="https://www.linkedin.com/in/shubham-kumar-b21037295">Linkedin</a>
   ·
-  <a href="mailto:info.shubhamkumar2001@gmail.com">email</a>
+  <a href="mailto:info.shubhamkumar2001@gmail.com">E-mail</a>
 </p>
 
 </div>
